@@ -1,5 +1,5 @@
 // Oooh I can seen the music - https://www.youtube.com/watch?v=jhh_Y-P4ucs
-// Andrew Wayne (www.andrewway.net)
+// Andrew Wayne (andrewway.net)
 // Pixelated camera with audio response on the colors
 
 a.hide()
